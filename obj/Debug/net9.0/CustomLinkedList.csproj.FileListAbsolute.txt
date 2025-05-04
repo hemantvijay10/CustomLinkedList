@@ -1,0 +1,14 @@
+C:\Hemant\C#\CustomLinkedList\bin\Debug\net9.0\CustomLinkedList.exe
+C:\Hemant\C#\CustomLinkedList\bin\Debug\net9.0\CustomLinkedList.deps.json
+C:\Hemant\C#\CustomLinkedList\bin\Debug\net9.0\CustomLinkedList.runtimeconfig.json
+C:\Hemant\C#\CustomLinkedList\bin\Debug\net9.0\CustomLinkedList.dll
+C:\Hemant\C#\CustomLinkedList\bin\Debug\net9.0\CustomLinkedList.pdb
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\CustomLinkedList.AssemblyInfo.cs
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\CustomLinkedList.dll
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\refint\CustomLinkedList.dll
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\CustomLinkedList.pdb
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\CustomLinkedList.genruntimeconfig.cache
+C:\Hemant\C#\CustomLinkedList\obj\Debug\net9.0\ref\CustomLinkedList.dll
